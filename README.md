@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently studying a Double Major in Computer Science and Pure Mathematics <br>at Maynooth University, Ireland<br>🌱 I’m currently learning: React, Go<br>💬 Ask me about as long as I can answer 😅<br>⚡ Fun fact: I love searching for Minecraft exploits and have found a few so far
 
 

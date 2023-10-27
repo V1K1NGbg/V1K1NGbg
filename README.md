@@ -1,4 +1,4 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) About Me: 
+# 💫 About Me:  
 🔭 I’m currently studying a Double Major in Computer Science and Pure Mathematics <br>at Maynooth University, Ireland<br>🌱 I’m currently learning: React, Go<br>💬 Ask me about as long as I can answer 😅<br>⚡ Fun fact: I love searching for Minecraft exploits and have found a few so far
 
 

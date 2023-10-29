@@ -1,5 +1,5 @@
 # 💫 About Me:  
-🔭 I’m currently studying a Double Major in Computer Science and Pure Mathematics <br>at Maynooth University, Ireland<br>🌱 I’m currently learning: React, Go<br>💬 Ask me about as long as I can answer 😅<br>⚡ Fun fact: I love searching for Minecraft exploits and have found a few so far
+🔭 I’m currently studying Computer Science and Engineering at TU Delft<br>🌱 I’m currently learning: Assembly, Java<br>⚡ Fun fact: I love searching for Minecraft exploits and have found a few so far
 
 
 ## 🌐 Socials:
@@ -11,11 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=V1K1NGbg&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V1K1NGbg&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1K1NGbg&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=V1K1NGbg&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

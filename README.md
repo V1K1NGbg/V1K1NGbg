@@ -1,5 +1,5 @@
 # 💫 About Me:  
-🔭 I’m currently studying Computer Science and Engineering at TU Delft<br>🌱 I’m currently learning: Assembly, Java<br>⚡ Fun fact: I love searching for Minecraft exploits and have found a few so far
+🔭 I’m currently studying Computer Science and Engineering at TU Delft<br>🌱 I’m currently learning: Lua<br>⚡ Fun fact: I love searching for Minecraft exploits and have found a few so far
 
 
 ## 🌐 Socials:

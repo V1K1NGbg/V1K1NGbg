@@ -3,12 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v1k1ngbg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=V1K1NGbg&theme=dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </div>
 
 ###
 
 <br clear="both">
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -84,12 +86,20 @@
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/v1k1ngbg/v1k1ngbg/output/snake.svg" alt="Snake animation" /> -->
+###
+
+<div align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=dark&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</div>
+
+###
+
+<br clear="both">
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/v1k1ngbg/count.svg?"  />
+  <img src="https://raw.githubusercontent.com/v1k1ngbg/v1k1ngbg/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victor Ilchev and I'm a  2nd year Computer Science and Engineering student at TU Delft, from Bulgaria.</h2>
+<h2 align="left">Hi 👋! My name is Victor Ilchev and I'm a  3nd year Computer Science and Engineering student at TU Delft, from Bulgaria.</h2>
 
 ###
 

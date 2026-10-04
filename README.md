@@ -98,8 +98,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/v1k1ngbg/v1k1ngbg/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ###
